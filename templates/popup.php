@@ -56,6 +56,7 @@
         line-height: 20px;
         padding: 5px 15px;
         font-weight: normal;
+        text-transform: none;
     }
 
     .cookie-disclaimer-holder .cd-accept-button:hover {
